@@ -1,6 +1,6 @@
 # Pagination; The ALX Project
 ------------
-This project focuses on implementing a __pagination__ system, 
+This project focuses on implementing and using a __`Pagination__ system, 
 allowing users to divide large sets of data into smaller, 
 manageable chunks for easier navigation 
 and improved user experience. 
