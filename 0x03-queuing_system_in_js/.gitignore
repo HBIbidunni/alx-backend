@@ -3,3 +3,9 @@
 
 # Ignore the package-lock.json file
 package-lock.json
+
+# Ignore redis-7.2.3 directory
+redis-7.2.3
+
+# Ignore the redis-7.2.3.tar.gz.1 file
+redis-7.2.3.tar.gz.1
