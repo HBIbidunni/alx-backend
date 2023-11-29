@@ -9,3 +9,6 @@ redis-7.2.3
 
 # Ignore the redis-7.2.3.tar.gz.1 file
 redis-7.2.3.tar.gz.1
+
+# Ignore the redis-7.2.3.tar.gz file
+redis-7.2.3.tar.gz
