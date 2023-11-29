@@ -1,12 +1,12 @@
 {
   "name": "queuing_system_in_js",
   "version": "1.0.0",
-  "description": "",
+  "description": "---------------- The `Queuing System in JS` is designed to manage and organize a queue of tasks or jobs.  It is particularly useful in scenarios where tasks need to be processed in __a sequential order__  or based on certain priorities. The system includes features such as __adding tasks to the queue__,  __removing tasks__, and __processing tasks__ in a __synchronous__ or __asynchronous manner.__",
   "main": "index.js",
   "scripts": {
-    "lint": "./node_modules/.bin/eslint",
+    "lint": "eslint",
     "check-lint": "lint [0-9]*.js",
-    "test": "./node_modules/.bin/mocha --require @babel/register --exit",
+    "test": "mocha --require @babel/register --exit",
     "dev": "nodemon --exec babel-node --presets @babel/preset-env"
   },
   "author": "",
@@ -32,5 +32,6 @@
     "mocha": "^6.2.2",
     "request": "^2.88.0",
     "sinon": "^7.5.0"
-  }
+  },
+  "keywords": []
 }
